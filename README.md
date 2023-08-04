@@ -6,8 +6,8 @@
 - 📚 Сейчас изучаю SQL, python, СУБД
 
 
-**📫 Связаться со мной**
-heahhunter: [https://hh.ru/resume/8b94525eff0c3df3be0039ed1f72436756306d]
+##📫 Связаться со мной
+- heahhunter: [https://hh.ru/resume/8b94525eff0c3df3be0039ed1f72436756306d]
 
 <!---
 annakhairova/annakhairova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
