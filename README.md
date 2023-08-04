@@ -6,7 +6,7 @@
 - 📚 Сейчас изучаю SQL, python, СУБД
 
 
-##📫 Связаться со мной
+## 📫 Связаться со мной
 - heahhunter: [https://hh.ru/resume/8b94525eff0c3df3be0039ed1f72436756306d]
 
 <!---
